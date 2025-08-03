@@ -58,8 +58,8 @@ Whether you’re a job seeker or a recruiter, this tool simplifies resume assess
    - Highlights strengths and weaknesses to refine resumes for better opportunities.
 
 ---
-
-![image](https://github.com/user-attachments/assets/418e54ef-82d0-474b-a6bc-9a30d72f27f5)
+## Deployment
+Deployed on Hugging Face
 
 ## Run the Page
 ``bash
